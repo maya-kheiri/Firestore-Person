@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519092564813",
+    "project_id": "personn-d40ea",
+    "storage_bucket": "personn-d40ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519092564813:android:17c49c8b1b3cb9b4e13d04",
+        "android_client_info": {
+          "package_name": "com.example.assi1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519092564813-dcd153q70j8bu106hcec1tsbb8eq8bju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCczi_1IBvN09li3lWKYe5eJ1YPg8XuosU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519092564813-dcd153q70j8bu106hcec1tsbb8eq8bju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
